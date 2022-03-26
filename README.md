@@ -1,2 +1,2 @@
 # leetcode-solutions
-Solving all leetcode problems, one at a time
+Leetcode problems with Javascript, one at a time.
